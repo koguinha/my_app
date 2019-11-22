@@ -15,7 +15,7 @@ tasks:
     echo "Init Flutter..."
     flutter upgrade
     flutter doctor --android-licenses
-    cd /workspace/ha_client
+    cd /workspace/my_app
     flutter pub get
   command: |
     flutter pub upgrade
