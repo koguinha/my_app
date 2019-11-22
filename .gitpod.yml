@@ -23,5 +23,8 @@ tasks:
     flutter doctor
 vscode:
   extensions:
-    - Dart-Code.dart-code@3.5.0-beta.1:Wg2nTABftVR/Dry4tqeY1w==
-    - Dart-Code.flutter@3.5.0:/kOacEWdiDRLyN/idUiM4A==
+    - aaron-bond.better-comments@2.0.5:YKNfOclR4e8XAxlj4xp2AA==
+    - Dart-Code.flutter@3.6.0:bAElIiRvpBSK2AT2+PDj0w==
+    - Nash.awesome-flutter-snippets@2.0.3:6jLJSOqEGV5k8R0xYG7Oqg==
+    - Dart-Code.dart-code@3.6.0:OIKJQXmfWHoIMVCiWrcLsQ==
+    - PKief.material-icon-theme@3.9.1:g1O+jL+iaYZp5mMmzpPEug==
